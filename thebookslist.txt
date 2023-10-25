@@ -1,0 +1,5 @@
+Eat that Frog!,Brain Tracy,345
+Introducing Python Modern computing and Packages,Bill Nubanovic,567
+Eat that Frog!,Brain Tracy,1987
+Idiomatic Go,Job Bodner,987
+Obstacle is the way,,345
